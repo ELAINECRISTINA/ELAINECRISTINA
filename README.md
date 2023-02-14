@@ -3,9 +3,9 @@
 
 - 🔭 Eu atualmente estou trabalhando com análise de dados **Identificação de paradas de máquinas**
 
-- 🌱Atualmente estou aprendendo **Node-Red e Machine learn**
+- 🌱Atualmente estou aprendendo **Machine learn, Infraestrutura para armazenamento em nuvem**
 
-- 💬 pode me perguntar sobre **SQL, Oracle, Python, Excel**
+- 💬 pode me perguntar sobre **SQL, Oracle, Python, Excel, Node-Red**
 
 - 📫 Como chegar até mim **elainecristina978@gmail.com**
 
