@@ -1,11 +1,11 @@
 - <h1 align="center">Olá👋, Eu sou Elaine Cristina</h1>
 <h3 align="center">Apaixonada por Análise de Dados</h3>
 
-- 🔭 Eu atualmente estou trabalhando com análise de dados **Identificação de paradas de máquinas**
+- 🔭 Eu atualmente estou trabalhando com análise de dados **Inteligência de Mercado**
 
 - 🌱Atualmente estou aprendendo **Machine learn, Infraestrutura para armazenamento em nuvem**
 
-- 💬 pode me perguntar sobre **SQL, Oracle, Python, Excel, Node-Red**
+- 💬 pode me perguntar sobre **SQL, Python, Excel, Node-Red, Streamlit, Power apps**
 
 - 📫 Como chegar até mim **elainecristina978@gmail.com**
 
