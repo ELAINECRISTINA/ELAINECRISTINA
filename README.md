@@ -30,7 +30,7 @@ Meu diferencial é unir **domínio de negócio do agronegócio** com **automaç�
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [Bot de Licitações (PNCP)](https://github.com/ELAINECRISTINA/BOT-_licitacao) | Monitora licitações públicas no PNCP e organiza as oportunidades | Python |
+| [LicitaCatcher Brasil](https://github.com/ELAINECRISTINA/licitacatcher-brasil) | Monitora licitações no PNCP, filtra itens por produto e envia um resumo diário por e-mail | Python · Selenium · Pandas |
 
 > 🚧 Novos projetos em construção: painel de indicadores do agronegócio, análise de sentimento, mapa de mercado e monitor de notícias.
 
