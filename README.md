@@ -30,9 +30,10 @@ Meu diferencial é unir **domínio de negócio do agronegócio** com **automaç�
 
 | Projeto | O que faz | Stack |
 |---|---|---|
+| [Painel do Agronegócio](https://github.com/ELAINECRISTINA/painel-agro) · [🔗 demo](https://painel-agro.streamlit.app/) | Safra por cultura e estado (IBGE/LSPA), mapa por UF e câmbio, juros e inflação (Banco Central), com testes e plano B de dados | Python · Streamlit · Plotly · Pandas |
 | [LicitaCatcher Brasil](https://github.com/ELAINECRISTINA/licitacatcher-brasil) | Monitora licitações no PNCP, filtra itens por produto e envia um resumo diário por e-mail | Python · Selenium · Pandas |
 
-> 🚧 Novos projetos em construção: painel de indicadores do agronegócio, análise de sentimento, mapa de mercado e monitor de notícias.
+> 🚧 Novos projetos em construção: análise de sentimento, mapa de mercado e monitor de notícias.
 
 ### 💼 Serviços como freelancer
 
